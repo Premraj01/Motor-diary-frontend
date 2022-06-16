@@ -4,6 +4,7 @@ import Car from "../models/carModel.js";
 import Journey from "../models/journeyModel.js";
 
 const registerCar = asyncHandler(async (req, res) => {
+  console.log("first")
   const {
     carName,
     carNumber,
