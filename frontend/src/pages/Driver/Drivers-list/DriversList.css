@@ -1,0 +1,68 @@
+#action {
+	display:flex;
+	
+}
+
+#action ion-icon {
+	cursor: pointer;
+}
+
+#action #action-icon {
+	margin-left: 1px;
+	color: red;
+}
+
+#edit-action {
+	width: 40px;
+}
+
+#status-action {
+	flex: 1;
+}
+
+#action img {
+	height: 25px;
+	margin-left: 6px;
+	color: blue;
+}
+.grey {
+	background: rgba(224, 224, 224, 0.4);
+}
+
+ion-select{
+	max-width: 70% !important;
+}
+
+.table {
+	display: flex;
+	align-items: center;
+	/* justify-content: center; */
+}
+
+.content-restrict{
+	text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.blue-border {
+	border: 1px solid midnightblue !important;
+	border-radius: 0.5em;
+}
+
+.input-box{
+		height:36px;
+		width: 100%;
+		background: rgb(208, 225, 241);
+		border-radius: 5px;
+}
+
+ion-card {
+	height: 80%;
+	width: 100%;
+}
+
+ion-card > ion-card-content {
+	height: 150px;
+	overflow: scroll;
+}

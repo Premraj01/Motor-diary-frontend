@@ -1,0 +1,106 @@
+#download {
+	margin-top: 10%;
+}
+
+#close {
+	color: var(--ion-color-step-150);
+	cursor: pointer;
+	font-size: 20px;
+}
+
+#download-Files {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 10%;
+}
+
+#download-Files img {
+	width: 150px;
+}
+
+#download-Files #file-pdf:hover {
+	z-index: 0.999;
+}
+#download-Files #file-pdf {
+	text-decoration: none;
+	color: var(--ion-color-danger-shade);
+	/* color: white; */
+}
+
+#download-Files #file-csv {
+	text-decoration: none;
+	color: white;
+}
+
+#grey {
+	background: rgba(224, 224, 224, 0.4);
+}
+
+.blue-border {
+	border: 1px solid midnightblue !important;
+	border-radius: 0.5em;
+}
+
+#download-Files #file-csv:hover {
+	z-index: 0.999;
+}
+
+.vl {
+	border-left: 2px solid var(--ion-color-step-150);
+	height: 200px;
+}
+
+.table {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#action {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#edit-action {
+	width: 40px;
+}
+
+#status-action {
+	flex: 1;
+}
+
+#action img {
+	height: 25px;
+	margin-left: 6px;
+}
+
+button {
+	background: none;
+	color: inherit;
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+}
+
+#action-list {
+	border-bottom: 1px solid var(--ion-color-step-150, #d7d8da);
+}
+
+#action-popover {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 50px;
+	width: 100%;
+	background-color: grey;
+}
+
+#action-popover img {
+	height: 25px;
+	margin-left: 6px;
+}
+

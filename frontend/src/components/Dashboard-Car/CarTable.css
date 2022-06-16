@@ -1,0 +1,15 @@
+#action-list {
+	border-bottom: 1px solid var(--ion-color-step-150, #d7d8da);
+}
+
+.grey {
+	/* background: rgba(224, 224, 224, 0.4);
+	 */
+	background: #f7f8fc;
+}
+
+.table {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}

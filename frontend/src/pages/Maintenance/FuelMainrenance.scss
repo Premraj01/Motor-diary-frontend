@@ -1,0 +1,41 @@
+.grey {
+	background: rgba(224, 224, 224, 0.4);
+}
+
+.table {
+	display: flex;
+	align-items: center;
+	/* justify-content: center; */
+}
+
+#action {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#action ion-icon {
+	cursor: pointer;
+}
+
+#download-Files ion-card {
+	width: 50%;
+}
+
+.alert-wrapper {
+	width: 100% !important;
+	max-width: 25% !important;
+	
+}
+
+.div-size{
+	height: 80%;
+	overflow: hidden;
+}
+
+.msg-div{
+	display: flex;
+	justify-content: center;
+	align-self: start;
+	align-items: center;
+}

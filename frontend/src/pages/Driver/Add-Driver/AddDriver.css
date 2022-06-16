@@ -1,0 +1,24 @@
+#assign-car {
+	display: flex;
+	align-items: center;
+	/* justify-content: center; */
+}
+
+.grey {
+	--background: rgba(224, 224, 224, 0.4);
+}
+
+ion-datetime {
+	--overflow: visible;
+}
+
+.m-20 {
+	margin-bottom: 20px;
+}
+
+
+
+.calender{
+	display: flex;
+	
+}

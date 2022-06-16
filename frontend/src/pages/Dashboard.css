@@ -1,0 +1,9 @@
+.grey {
+	--background: rgba(224, 224, 224, 0.4);
+}
+
+.notification-badge{
+	font-size: 0.8em;
+    margin-top: -15px;
+    margin-left: -10px;
+}

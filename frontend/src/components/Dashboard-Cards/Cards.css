@@ -1,0 +1,22 @@
+#card-label {
+	font-size: 20px;
+	color: black;
+}
+
+#card-count {
+	font-size: 40px;
+}
+
+#cards ion-card {
+	--background: #FFFFFF;
+	border-radius: 0.5rem;
+	box-shadow: 1em;
+	
+}
+.card-hover:hover {
+	--background:red
+}
+
+#cards ion-title {
+	--color: black;
+}

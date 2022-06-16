@@ -1,0 +1,9 @@
+.history img {
+	height: 25px;
+	margin-left: 6px;
+}
+
+#download-Files img {
+	box-shadow: 2px 2px 2px 2px #41cae1;
+	border-radius: 50%;
+}

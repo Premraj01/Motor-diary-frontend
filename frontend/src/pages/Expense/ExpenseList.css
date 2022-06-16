@@ -1,0 +1,15 @@
+.closeIcon{
+	position: fixed;
+	--background: transparent;
+    --ion-color-base: transparent !important;
+}
+.input-box{
+	height:36px;
+	width: 100%;
+	background: rgb(208, 225, 241);
+	border-radius: 5px;
+}
+
+#action {
+	display: flex;
+}

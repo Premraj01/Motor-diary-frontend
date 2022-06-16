@@ -1,0 +1,11 @@
+#close {
+	color: var(--ion-color-step-150);
+	cursor: pointer;
+	font-size: 20px;
+}
+
+.action {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
